@@ -28,5 +28,11 @@
 			"bIsBasePlugin": false,
 			"Enabled": true
 		}
+	],
+	"LocalizationTargets": [
+		{
+			"Name": "MoreSwatchSlots",
+			"LoadingPolicy": "Always"
+		}
 	]
 }
