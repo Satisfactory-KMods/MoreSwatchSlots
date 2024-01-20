@@ -237,6 +237,7 @@ jobs:
         timeout-minutes: 60
         runs-on: ubuntu-latest
         strategy:
+          fail-fast: false
           matrix:
             mod: 
               - id: "DM5DnSogEL6j74"
